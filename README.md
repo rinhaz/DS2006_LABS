@@ -1,2 +1,2 @@
 # DS2006_LABS
-Lab exercises for Dice Problem
+Lab exercises for Dice Codes 
